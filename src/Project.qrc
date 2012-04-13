@@ -1,0 +1,13 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>ICONS/Head.jpg</file>
+    <file>ICONS/open3.png</file>
+    <file>ICONS/save.png</file>
+    <file>ICONS/info.png</file>
+    <file>ICONS/exit.png</file>
+    <file>ICONS/logo-vtk.gif</file>
+    <file>ICONS/iso.png</file>
+    <file>ICONS/aboutapp.png</file>
+    <file>ICONS/path.png</file>
+</qresource>
+</RCC>
